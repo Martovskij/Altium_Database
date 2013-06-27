@@ -1,0 +1,76 @@
+Component Name : STM32F103R
+
+Part Count : 2
+
+Part : DD?
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : DD?
+     Pins - (Normal) : 64
+          VBAT           1              Passive
+          PC13/TAMPER/RTC2              Passive
+          PC14/OSC32_IN  3              Passive
+          PC15/OSC32_OUT 4              Passive
+          OSC_IN         5              Passive
+          OSC_OUT        6              Passive
+          NRST           7              Passive
+          PC0/ADC123_IN108              Passive
+          PC1/ADC123_IN119              Passive
+          PC2/ADC123_IN1210             Passive
+          PC3/ADC12_IN13 11             Passive
+          VSSA           12             Passive
+          VDDA           13             Passive
+          PA0/WKUP/USART2_CTS14             Passive
+          PA1/USART2_RTS 15             Passive
+          PA2/USART2_TX  16             Passive
+          PA3/USART2_RX  17             Passive
+          VSS_4          18             Passive
+          VDD_4          19             Passive
+          PA4/SPI1_NSS/DAC_OUT1/USART2_CK/ADC12_IN420             Passive
+          PA5/SPI1_SCK/DAC_OUT2/ADC12_IN521             Passive
+          PA6/SPI1_MISO/ADC12_IN6/TIM3_CH122             Passive
+          PA7/SPI1_MOSI/ADC12_IN7/TIM3_CH223             Passive
+          PC4/ADC12_IN14 24             Passive
+          PC5/ADC12_IN15 25             Passive
+          PB0/ADC12_IN8/TIM3_CH326             Passive
+          PB1/ADC12_IN9/TIM3_CH427             Passive
+          PB2/BOOT1      28             Passive
+          PB10/I2C2_SCL/USART3_TX29             Passive
+          PB11/I2C2_SDA/USART3_RX30             Passive
+          VSS_1          31             Passive
+          VDD_1          32             Passive
+          PB12/SPI2_NSS/I2S2_WS/I2C2_SMBA/USART3_CK33             Passive
+          PB13/SPI2_SCK/I2S2_CK/USART3_CTS34             Passive
+          PB14/SPI2_MISO/TIM1_CH2N/USART3_RTS35             Passive
+          PB15/SPI2_MOSI/I2S2_SD36             Passive
+          PC6/I2S2_MCK/TIM8_CH1/SDIO_D637             Passive
+          PC7/2S3_MCK/TIM8_CH2/SDIO_D738             Passive
+          PC8/TIM8_CH3/SDIO_D039             Passive
+          PC9/TIM8_CH4/SDIO_D140             Passive
+          PA8/USART1_CK/TIM1_CH1/MCO41             Passive
+          PA9/USART1_TX/TIM1_CH242             Passive
+          PA10/USART1_RX/TIM1_CH343             Passive
+          PA11/USART1_CTS/TIM1_CH4/USBDM44             Passive
+          PA12/USART1_RTS/USBDP45             Passive
+          PA13/JTMS-SWDIO46             Passive
+          VSS_2          47             Passive
+          VDD_2          48             Passive
+          PA14/JTCK-SWCLK49             Passive
+          PA15/JTDI/SPI3_NSS/I2S3_WS50             Passive
+          PC10/UART4_TX/SDIO_D251             Passive
+          PC11/UART4_RX/SDIO_D352             Passive
+          PC12/UART5_TX/SDIO_CK53             Passive
+          PD2/UART5_RX/SDIO_CMD54             Passive
+          PB3/JTDO/SPI3_SCK/I2S3_CK55             Passive
+          PB4/NJTRST/SPI3_MISO56             Passive
+          PB5/I2C1_SMBA/SPI3_MOSI/I2S3_SD57             Passive
+          PB6/I2C1_SCL/TIM4_CH158             Passive
+          PB7/I2C1_SDA/TIM4_CH259             Passive
+          BOOT0          60             Passive
+          PB8/TIM4_CH3/SDIO_D461             Passive
+          PB9/TIM4_CH4/SDIO_D562             Passive
+          VSS_3          63             Passive
+          VDD_3          64             Passive
+          Hidden Pins : 
+
